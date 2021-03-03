@@ -1,30 +1,29 @@
-
 /* Tagname */
 kbd {
-    font-size: 1rem;
-  }
-  
-  p {
-    background: rgb(153, 88, 51);
-  }
-  
-  /* Class */
-  .class-selector {
-    background: yellow;
-  }
-  
-  .no-style {
-    background: none;
-  }
-  
-  /* ID */
-  #id-selector {
-    background: turquoise;
-  }
-  
-  /* Universal selector */
-  * {
-    background-color: #f4f4f4;
-  }
+  font-size: 1rem;
+}
 
-  /* Child combinator */
+p {
+  background: rgb(153, 88, 51);
+}
+
+/* Class */
+.class-selector {
+  background: yellow;
+}
+
+.no-style-p {
+  background: none;
+}
+
+/* ID */
+#id-selector {
+  background: turquoise;
+}
+
+/* Universal selector */
+* {
+  background-color: #f4f4f4;
+}
+
+/* Child combinator */
